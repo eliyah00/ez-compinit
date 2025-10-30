@@ -1,3 +1,7 @@
+## Fork form [mattmc3/ez-compinit](https://github.com/mattmc3/ez-compinit)
+
+This fork is a work around [bug: fzf-tab](https://github.com/mattmc3/ez-compinit/issues/1)
+
 # ez-compinit
 
 > :hatching_chick: Make Zsh compinit suck less
